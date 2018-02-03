@@ -1,1 +1,1 @@
-Contains all the fonts used by Material design for Bootstrap
+Contains all the fonts used by Font Awesome
